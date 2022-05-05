@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aofinstad
-- 👀 I’m interested in kotlin, kafka and conding in general
+- 👀 I’m interested in kotlin, kafka and coding in general
 - 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me ...
